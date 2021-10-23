@@ -1,5 +1,5 @@
 # SantaFlex_Jsp
-JSP를 활용한 웹 애플리케이션 만들기 실습
+JSP를 활용한 웹 애플리케이션 만들기 실습.
 
 
 ![슬라이드1](https://user-images.githubusercontent.com/78725674/138414121-e11f6c29-557f-421d-86f4-7144b6820807.PNG)
