@@ -1,11 +1,18 @@
 # SantaFlex_Jsp
 <h2>JSP를 활용한 MVC 웹 프레임워크 구현 프로젝트</h2>
 
-<h5>구조</h5>
+
+<h3>구조</h3>
 
 ![다운로드](https://user-images.githubusercontent.com/78725674/138577232-e948f59b-8cda-4663-88ed-8a5bb7681c0f.png)
 
-<h5>기능소개</h5>
+<br>
+<h3>테이블</h3>
+
+![ER_diagram](https://user-images.githubusercontent.com/78725674/138577301-6201c92c-61d3-4301-9061-3f5e091c24ce.png)
+
+<br>
+<h3>기능소개</h3>
 
 ![슬라이드1](https://user-images.githubusercontent.com/78725674/138414121-e11f6c29-557f-421d-86f4-7144b6820807.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/78725674/138414126-9e574e1b-bddf-4712-a6b8-8d7fec9580c5.PNG)
