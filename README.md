@@ -1,11 +1,15 @@
 # SantaFlex_Jsp
 <h2>JSP를 활용한 MVC 웹 프레임워크 구현 프로젝트</h2>
 
+- 동적 웹페이지를 생성하기 위한 도구로 Servlet과 JSP를 활용하여 웹 어플리케이션 서버에서 동작될 기능 구현
+- MVC 패턴을 적용하여
+
+- Servlet과 JSP 학습 후 MVC 패턴을 구현하는 프로젝트로 
+- MySQL 쿼리를 작성하여 기능 테이블 생성 및 컬럼별 관계 수립
 
 <h3>구조</h3>
 
-<img width="1088" alt="20211024_113036" src="https://user-images.githubusercontent.com/78725674/138577756-5b24b0e8-04d9-4f09-a02e-bd6a54bbe4ed.png">
-
+![다운로드](https://user-images.githubusercontent.com/78725674/138577232-e948f59b-8cda-4663-88ed-8a5bb7681c0f.png)
 
 <br>
 <h3>테이블</h3>
