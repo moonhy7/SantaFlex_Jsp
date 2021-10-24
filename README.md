@@ -4,7 +4,8 @@
 
 <h3>구조</h3>
 
-![다운로드](https://user-images.githubusercontent.com/78725674/138577232-e948f59b-8cda-4663-88ed-8a5bb7681c0f.png)
+<img width="1088" alt="20211024_113036" src="https://user-images.githubusercontent.com/78725674/138577756-5b24b0e8-04d9-4f09-a02e-bd6a54bbe4ed.png">
+
 
 <br>
 <h3>테이블</h3>
