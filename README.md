@@ -1,5 +1,8 @@
 # SantaFlex_Jsp
-JSP를 활용한 웹 애플리케이션 만들기 실습.
+<h2>JSP를 활용한 MVC 웹 프레임워크 구현 프로젝트</h2>
+
+<p>구조</p>
+![다운로드](https://user-images.githubusercontent.com/78725674/138577222-2694f556-8546-4336-b625-c5d61919181c.png)
 
 
 ![슬라이드1](https://user-images.githubusercontent.com/78725674/138414121-e11f6c29-557f-421d-86f4-7144b6820807.PNG)
