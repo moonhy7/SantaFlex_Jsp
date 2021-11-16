@@ -16,7 +16,13 @@
 ![ER_diagram](https://user-images.githubusercontent.com/78725674/138577301-6201c92c-61d3-4301-9061-3f5e091c24ce.png)
 
 <br>
-<h3>기능소개</h3>
+<h3>프로젝트 시연</h3><br>
 
-![image](https://user-images.githubusercontent.com/78725674/142082587-9a04571d-169a-4a56-b194-04ecfcc4237c.png)
+1. 메인페이지<br><br>
+![image](https://user-images.githubusercontent.com/78725674/142082587-9a04571d-169a-4a56-b194-04ecfcc4237c.png)<br><br><br>
+
+2. 선물 담기 페이지 <br><br>
 ![image](https://user-images.githubusercontent.com/78725674/142082599-d27b49cf-7dc9-42cb-b43a-2483409842c2.png)
+
+3. 로그인하기 전 마이페이지 접근 제한 알림창
+
